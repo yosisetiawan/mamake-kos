@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Kost Tanah Abang II No 54 Jakarta Pusat",
+        "address": "Gambir",
+        "type": "Campur",
+        "roomsAvaible": 2,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2017-10-04/lgzWxrpR-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2017-10-04/Flxtk0RR-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2017-10-04/m0eeso1n-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2017-10-04/bzLi4nTX-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2017-10-04/ZMJvsZhf-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2017-10-04/iE7PQl0B-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -6.175780,
+            "longitude": 106.831160
+        },
+        "price": 950000,
+        "city": "Jakarta",
+        "dimension": {
+            "width": 4,
+            "length": 2.6
+        },
+        "features": [
+            "Kasur", "Kamar mandi dalam", "Wifi", "AC"
+        ],
+        "desc": "dekat ics, ada wifi",
+        "updated": "13 August 2019 13:13",
+        "owner": {
+            "name": "Jhony Thompson",
+            "phone": "081231290209"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Kost Lanny Senen Jakarta Pusat",
+        "address": "Senen",
+        "type": "Putra",
+        "roomsAvaible": 2,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2019-03-27/bdl7O9vR-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2019-03-27/gBNArRqM-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2019-03-27/gBNArRqM-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2019-03-27/WBKDYLPb-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -6.175290,
+            "longitude": 106.837450
+        },
+        "price": 650000,
+        "city": "Jakarta",
+        "dimension": {
+            "width": 2,
+            "length": 5
+        },
+        "features": [
+            "Kasur", "Kamar mandi dalam", "Akses kunci"
+        ],
+        "desc": "Dekat Masjid Al-riyadh, samping toko cinoha",
+        "updated": "27 March 2019 15:57",
+        "owner": {
+            "name": "Pearl Harbour",
+            "phone": "08239023019"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Kost Putri Tepi Jalan Raya Tengah Kota Surabaya",
+        "address": "Genteng",
+        "type": "Putri",
+        "roomsAvaible": 1,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2018-07-19/qPlQGoJT-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-07-19/zKoJO0Lk-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-07-19/dvz4oaZn-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-07-19/rkZy2TRu-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -7.258890,
+            "longitude": 112.739200
+        },
+        "price": 700000,
+        "city": "Surabaya",
+        "dimension": {
+            "width": 3,
+            "length": 3
+        },
+        "features": [
+            "Kasur", "Kamar mandi dalam", "AC", "TV"
+        ],
+        "desc": "Tersedia kamar kos khusus putri di jl. Achmad Jais no. 42, Surabaya. Ada 2 macam kamar, yaitu: - dengan kipas angin, harga mulai rp 550000/bln - dengan ac , harga mulai rp 1100000/bln Fasilitas lengkap, aman, nyaman, bersih, bebas banjir. Sudan termasuk pam, pln, gas dapur, air minum pureit. Lokasi tepat di tengah kota, sehingga tersedia berbagai angkutan umum segala jurusan. ",
+        "updated": "14 August 2019 11:34",
+        "owner": {
+            "name": "Shikada Kenji",
+            "phone": "08892019020"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Kost Cikawao Lengkong Besar Bandung",
+        "address": "Lengkong",
+        "type": "Campur",
+        "roomsAvaible": 2,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2018-11-29/xJeZq0jA-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-11-29/TWXrjBvY-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -6.934140,
+            "longitude": 107.622640
+        },
+        "price": 800000,
+        "city": "Bandung",
+        "dimension": {
+            "width": 3,
+            "length": 3
+        },
+        "features": [
+            "Kasur", "Kamar mandi dalam", "Akses Kunci", "Wifi"
+        ],
+        "desc": "5 menit dari simpang lima asia afrika, masuk bisa dari lengkong besar, lengkong kecil, karapitan, atau cikawao. Posisi tengah kota bandung, tetapi di lingkungan yang tenang. ",
+        "updated": "13 August 2019 10:15",
+        "owner": {
+            "name": "Santa Kamila",
+            "phone": "084190941029"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Kost Kamalia Lengkong Bandung",
+        "address": "Bandung",
+        "type": "Putra",
+        "roomsAvaible": 1,
+        "images": [
+            "https://static.mamikos.com/uploads/cache/data/style/2018-02-21/4lvEHipk-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-02-21/0ELnkhoD-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-02-21/vCNS7joa-540x720.jpg",
+            "https://static.mamikos.com/uploads/cache/data/style/2018-02-21/bEjGnvjF-540x720.jpg"
+        ],
+        "coordinate": {
+            "latitude": -6.902160,
+            "longitude": 107.619110
+        },
+        "price": 600000,
+        "city": "Bandung",
+        "dimension": {
+            "width": 2.5,
+            "length": 3
+        },
+        "features": [
+            "Kasur", "Akses Kunci"
+        ],
+        "desc": "Dekat hotel nandya, sebrangnya ada tangga sekitar 1.2m yg ada lapang, turun ke bawah terus belokan kiri pertama belok, lewat satu rumah ada pager warna coklat",
+        "updated": "12 August 2019 22:24",
+        "owner": {
+            "name": "Angleina Augustin",
+            "phone": "092380473990"
+        }
+    }
+]

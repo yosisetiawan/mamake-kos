@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Kasur",
+        "icon": "hotel"
+    },
+    {
+        "name": "Kamar mandi dalam",
+        "icon": "hot-tub"
+    },
+    {
+        "name": "AC",
+        "icon": "ac-unit"
+    },
+    {
+        "name": "Wifi",
+        "icon": "wifi"
+    },
+    {
+        "name": "Akses kunci",
+        "icon": "vpn-key"
+    },
+    {
+        "name": "TV",
+        "icon": "tv"
+    },
+    {
+        "name": "Laundry",
+        "icon": "local-laundry-service"
+    },
+    {
+        "name": "Parkir mobil",
+        "icon": "directions-car"
+    },
+    {
+        "name": "Parkir Motor",
+        "icon": "motorcycle"
+    },
+    {
+        "name": "Parkir Sepeda",
+        "icon": "directions-bike"
+    },
+    {
+        "name": "Keamanan",
+        "icon": "security"
+    }
+]
